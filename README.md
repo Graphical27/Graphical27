@@ -1,41 +1,94 @@
 {
-    "Name": "Sourabh Singh",
+    "Name": "Aidan Holland",
     "Pronouns": ["He", "Him", "His"],
-    "AskMeAbout": [
+    "Ask Me About": [
         "Cyber Security",
-       "Open Source Development"
+        "Open Source Development"
     ],
     "Languages": {
-        "Python": "Intermediate",
-        "JavaScript": "Beginner",
-        "Bash": "Beginner",
-        "C++": "Intermediate",
-        "C": "Intermediate"
+        "Python": "Advanced",
+        "JavaScript": "Advanced",
+        "TypeScript": "Intermediate",
+        "Java": "Intermediate",
+        "Go": "Intermediate",
+        "Bash": "Intermediate",
+        "C++": "Beginner",
+        "C": "Beginner",
+        "Racket": "Beginner"
     },
-    "Database": [
-        "MySQL",
-        "MongoDB",
-        "Oracle"
-    ],
-    "CyberSecurity": [
-        "Censys",
-        "Shodan",
-        "Splunk",
-        "Maltego",
-        "Nessus",
-        "Nmap"
-    ],
-    "OperatingSystems": [
-        "Windows",
-        "Linux"
-    ],
+    "Technologies": {
+        "Backend": [
+          "Fast API",
+          "Flask", 
+          "Django",
+          "Sanic",
+          "SQLAlchemy",
+          "Express",
+          "Protobufs",
+          "Pyramid",
+          "Jinja"
+        ],
+        "Frontend": [
+          "Node.js",
+          "React.js",
+          "Redux",
+          "Storybook",
+          "Jest"
+        ],
+        "Mobile": [
+          "React Native"
+        ],
+        "Database": [
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "ElasticSearch",
+          "Oracle"
+        ],
+        "Serverless": [
+          "AWS Lambda",
+          "GCP Cloud Functions",
+          "Azure Functions",
+          "Heroku"
+        ],
+        "Dev Ops": [
+          "AWS",
+          "GCP",
+          "Git",
+          "GitHub",
+          "GitLab",
+          "Docker",
+          "Terraform",
+          "Kubernetes",
+        ],
+        "Cyber Security": [
+          "Censys",
+          "Shodan",
+          "Splunk",
+          "Maltego",
+          "Nessus",
+          "Nmap"
+        ],
+        "Operating Systems": [
+          "macOS",
+          "Linux"
+        ],
+        "Design": [
+          "Figma",
+          "Adobe XD"
+        ],
+        "Misc": [
+          "Firebase",
+          "Adobe Premiere Pro"
+        ],
+    },
     "Stats": {
-        "AccountAge": "1 year",
-        "PushedCommits": "10 commits",
-        "OpenedIssues": "0 issues",
-        "SubmittedPullRequests": "0 pull requests",
-        "ReceivedStars": "0 stars",
-        "OwnRepositories": "0 repositories",
-        "ContributedToRepositories": "0 public repositories"
+        "Account Age": "6 years",
+        "Pushed": "3072 commits",
+        "Opened": "155 issues",
+        "Submitted": "430 pull requests",
+        "Received": "625 stars",
+        "Own": "63 repositories",
+        "Contributed to": "46 public repositories",
     }
 }
