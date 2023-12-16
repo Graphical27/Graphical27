@@ -3,7 +3,7 @@
     "Pronouns": ["He", "Him", "His"],
     "AskMeAbout": [
         "Cyber Security",
-        "Open Source Development"
+       "Open Source Development"
     ],
     "Languages": {
         "Python": "Intermediate",
