@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sourabh Singh</h1>
+<h1 align="center">Hey there 👋, I'm Sourabh </h1>
 <h3 align="center">Engineer | AI/ML Practitioner | Competitive Programmer | Creative Coder</h3>
 
 <p align="center">
