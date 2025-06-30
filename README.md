@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | AI/ML Practitioner | Competitive Programmer | Creative Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+AI-powered+systems+👨‍💻;Making+machines+see+%F0%9F%96%8D%EF%B8%8F;Solving+problems+with+code+%F0%9F%94%AB;Lover+of+Clean+UIs+%F0%9F%96%BC️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+AI-powered+systems+👨‍💻;Making+machines+see+%F0%9F%96%8D%EF%B8%8F;Solving+problems+with+code+%F0%9F%94%AB" alt="Typing SVG" />
 </p>
 
 ---
