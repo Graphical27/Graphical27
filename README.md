@@ -18,6 +18,9 @@
 - 🚀 Passionate about: Merging **system-level engineering** with **deep learning**
 
 ---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Graphical27" alt=""></p>
+
+---
 
 ### 💼 Tech Stack
 #### Languages  
