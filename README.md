@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Graphical27" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/018d1ba9-b1b5-4499-9165-a3b8e78ed26c.svg" alt="Total time coded since Jan 18 2024" />
 </p>
 
 ---
