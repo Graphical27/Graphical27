@@ -51,16 +51,20 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Graphical27&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Graphical27&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graphical27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graphical27&theme=tokyonight&hide_border=true&border_radius=20" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=graphical27&theme=react-dark&area=true&hide_border=true&hide_title=true" width="95%"/>
+</div>
 
 ---
 
 ### ⏱️ WakaTime Stats
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Graphical&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6&langs_count=10" alt="WakaTime Stats" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Graphical&theme=tokyonight&size_weight=0.5&hide_border=true&count_weight=0.5&border_radius=20&title_color=36F9F6&langs_count=5" alt="WakaTime Stats" />
 </p>
 
 ---
