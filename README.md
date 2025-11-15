@@ -54,12 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=graphical27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180em" />&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=graphical27&theme=tokyonight&hide_border=true&border_radius=20" height="180em" />
-</p>
-
-
-
-
-
+</p> 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=graphical27&theme=react-dark&area=true&hide_border=true&hide_title=true" width="95%"/>
 </div>
