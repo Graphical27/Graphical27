@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+AI-powered+systems+👨‍💻;Making+machines+see+%F0%9F%96%8D%EF%B8%8F;Solving+problems+with+code+%F0%9F%94%AB" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400"> -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80">
+</div>
+
 ---
 
 ### 👨‍💻 About Me
@@ -71,16 +76,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-singh-76651028a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn">
   </a>
-  <a href="mailto:specious0027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/graphical" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" />
+  <a href="https://codolio.com/profile/_.graphical._" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Portfolio">
   </a>
 </p>
 
----
-
-<p align="center"><i>🧠 "Learning never exhausts the mind, it only ignites it."</i></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+</p>
