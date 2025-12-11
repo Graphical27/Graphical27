@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building: **32Bit-Kernel** and **Mock Interviewer with Emotional Voice Intelligence**
+- 🔭 Currently building: **Dropbox-cli**
 - 🌱 Learning: **Generative AI, Fine-Tuning, and Real-Time ML Inference**
 - ⚔️ Competitive Programming: Solving problems on **LeetCode**, **Codeforces**, and **GeeksforGeeks**
 - 💡 Created: 
