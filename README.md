@@ -35,10 +35,13 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### 🛠️ Frameworks & Libraries  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
@@ -52,24 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graphical27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180em" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graphical27&theme=tokyonight&hide_border=true&border_radius=20" height="180em" />
-</p> 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=graphical27&theme=react-dark&area=true&hide_border=true&hide_title=true" width="95%"/>
-</div>
-
----
-
-### ⏱️ WakaTime Stats
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Graphical&theme=tokyonight&size_weight=0.5&hide_border=true&count_weight=0.5&border_radius=20&title_color=36F9F6&langs_count=5" alt="WakaTime Stats" />
-</p>
 
 ---
 
