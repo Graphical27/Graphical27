@@ -67,9 +67,9 @@
   <a href="https://www.linkedin.com/in/sourabh-singh-76651028a/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/_.graphical._/" target="_blank">
+  <!-- <a href="https://www.instagram.com/temp/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Portfolio">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
