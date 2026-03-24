@@ -1,5 +1,4 @@
-<img align="right" src="https://cdn.crashmc.com/https://raw.githubusercontent.com/graphical27/graphical27/master/github-metrics.svg" alt="Metrics">
-
+<img align="right" src="https://raw.githubusercontent.com/graphical27/graphical27/master/github-metrics.svg">
 ---
 
 ### 👋 Hi, there!
